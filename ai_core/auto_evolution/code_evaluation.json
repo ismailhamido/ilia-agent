@@ -1,0 +1,13 @@
+{
+    "adaptive_learning.py": "\u26a0\ufe0f Optimisation : \u00c9viter les time.sleep(), utiliser des \u00e9v\u00e9nements.",
+    "ai_predictor.py": "\u26a0\ufe0f Optimisation : Remplacer les prints par des logs.",
+    "auto_adjuster.py": "\u26a0\ufe0f Optimisation : \u00c9viter les time.sleep(), utiliser des \u00e9v\u00e9nements.",
+    "auto_evolution.py": "\u26a0\ufe0f Optimisation : \u00c9viter les time.sleep(), utiliser des \u00e9v\u00e9nements.",
+    "auto_optimization.py": "\u26a0\ufe0f Optimisation : \u00c9viter les time.sleep(), utiliser des \u00e9v\u00e9nements.",
+    "auto_simulator.py": "\u26a0\ufe0f Optimisation : \u00c9viter les time.sleep(), utiliser des \u00e9v\u00e9nements.",
+    "decision_engine.py": "\u26a0\ufe0f Optimisation : Remplacer les prints par des logs.",
+    "error_handler.py": "\u26a0\ufe0f Optimisation : \u00c9viter les time.sleep(), utiliser des \u00e9v\u00e9nements.",
+    "evolution_engine.py": "\u26a0\ufe0f Optimisation : \u00c9viter les time.sleep(), utiliser des \u00e9v\u00e9nements.",
+    "performance_monitor.py": "\u26a0\ufe0f Optimisation : \u00c9viter les time.sleep(), utiliser des \u00e9v\u00e9nements.",
+    "self_coder.py": "\u26a0\ufe0f Optimisation : \u00c9viter les time.sleep(), utiliser des \u00e9v\u00e9nements."
+}

@@ -1,0 +1,62 @@
+[2025-02-11 23:30:56] 🚀 Lancement de l'analyse du code...
+[2025-02-11 23:30:56] 📌 Problèmes détectés dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/ai_brain.py:
+[2025-02-11 23:30:56] ⚠️ Import inutile détecté : psutil
+[2025-02-11 23:30:56] ✅ Aucun problème détecté dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/ai_connector.py.
+[2025-02-11 23:30:56] 📌 Problèmes détectés dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/ai_decision.py:
+[2025-02-11 23:30:56] ⚠️ Import inutile détecté : psutil
+[2025-02-11 23:30:56] 📌 Problèmes détectés dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/ai_predictor.py:
+[2025-02-11 23:30:56] ⚠️ Import inutile détecté : psutil
+[2025-02-11 23:30:56] 📌 Problèmes détectés dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_adapt.py:
+[2025-02-11 23:30:56] ⚠️ Import inutile détecté : psutil
+[2025-02-11 23:30:56] ✅ Aucun problème détecté dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/__init__.py.
+[2025-02-11 23:30:56] 📌 Problèmes détectés dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_evolution\adaptive_learning.py:
+[2025-02-11 23:30:56] ⚠️ Import inutile détecté : psutil
+[2025-02-11 23:30:56] 📌 Problèmes détectés dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_evolution\auto_evolution.py:
+[2025-02-11 23:30:56] ⚠️ Import inutile détecté : psutil
+[2025-02-11 23:30:56] 📌 Problèmes détectés dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_evolution\auto_optimization.py:
+[2025-02-11 23:30:56] ⚠️ Import inutile détecté : psutil
+[2025-02-11 23:30:56] 📌 Problèmes détectés dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_evolution\error_handler.py:
+[2025-02-11 23:30:56] ⚠️ Import inutile détecté : re
+[2025-02-11 23:30:56] 📌 Problèmes détectés dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_evolution\evolution_engine.py:
+[2025-02-11 23:30:56] ⚠️ Import inutile détecté : psutil
+[2025-02-11 23:30:56] ✅ Aucun problème détecté dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_evolution\__init__.py.
+[2025-02-11 23:30:56] 📌 Problèmes détectés dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_optimizer\code_analyzer.py:
+[2025-02-11 23:30:56] ⚠️ Import inutile détecté : ast
+[2025-02-11 23:30:56] ✅ Aucun problème détecté dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_optimizer\code_optimizer.py.
+[2025-02-11 23:30:56] 📌 Problèmes détectés dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_repair\auto_fixer.py:
+[2025-02-11 23:30:56] ⚠️ Import inutile détecté : psutil
+[2025-02-11 23:30:56] 📌 Problèmes détectés dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_repair\error_handler.py:
+[2025-02-11 23:30:56] ⚠️ Import inutile détecté : re
+[2025-02-11 23:30:56] ✅ Aucun problème détecté dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/self_optimizer\config.py.
+[2025-02-11 23:30:56] ✅ Aucun problème détecté dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/self_optimizer\performance_feedback.py.
+[2025-02-11 23:30:56] 📌 Problèmes détectés dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/self_optimizer\self_optimizer.py:
+[2025-02-11 23:30:56] ⚠️ Import inutile détecté : self_optimizer
+[2025-02-11 23:30:56] ⚠️ Import inutile détecté : psutil
+[2025-02-11 23:30:56] 📌 Problèmes détectés dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/supervisor\supervisor.py:
+[2025-02-11 23:30:56] ⚠️ Import inutile détecté : psutil
+[2025-02-11 23:30:56] 📌 Problèmes détectés dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/task_manager\task_manager.py:
+[2025-02-11 23:30:56] ⚠️ Import inutile détecté : psutil
+[2025-02-11 23:30:56] ✅ Analyse terminée.
+[2025-02-11 23:32:55] 🚀 Lancement de l'optimisation du code...
+[2025-02-11 23:32:55] ✅ Import inutile supprimé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/ai_brain.py : psutil
+[2025-02-11 23:32:55] ✅ Aucun import inutile trouvé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/ai_connector.py.
+[2025-02-11 23:32:55] ✅ Import inutile supprimé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/ai_decision.py : psutil
+[2025-02-11 23:32:55] ✅ Import inutile supprimé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/ai_predictor.py : psutil
+[2025-02-11 23:32:55] ✅ Import inutile supprimé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_adapt.py : psutil
+[2025-02-11 23:32:55] ✅ Aucun import inutile trouvé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/__init__.py.
+[2025-02-11 23:32:55] ✅ Import inutile supprimé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_evolution\adaptive_learning.py : psutil
+[2025-02-11 23:32:55] ✅ Import inutile supprimé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_evolution\auto_evolution.py : psutil
+[2025-02-11 23:32:55] ✅ Import inutile supprimé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_evolution\auto_optimization.py : psutil
+[2025-02-11 23:32:55] ✅ Aucun import inutile trouvé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_evolution\error_handler.py.
+[2025-02-11 23:32:55] ✅ Import inutile supprimé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_evolution\evolution_engine.py : psutil
+[2025-02-11 23:32:55] ✅ Aucun import inutile trouvé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_evolution\__init__.py.
+[2025-02-11 23:32:55] ✅ Aucun import inutile trouvé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_optimizer\code_analyzer.py.
+[2025-02-11 23:32:55] ✅ Aucun import inutile trouvé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_optimizer\code_optimizer.py.
+[2025-02-11 23:32:55] ✅ Import inutile supprimé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_repair\auto_fixer.py : psutil
+[2025-02-11 23:32:55] ✅ Aucun import inutile trouvé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/auto_repair\error_handler.py.
+[2025-02-11 23:32:55] ✅ Aucun import inutile trouvé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/self_optimizer\config.py.
+[2025-02-11 23:32:55] ✅ Aucun import inutile trouvé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/self_optimizer\performance_feedback.py.
+[2025-02-11 23:32:55] ✅ Import inutile supprimé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/self_optimizer\self_optimizer.py : psutil
+[2025-02-11 23:32:55] ✅ Import inutile supprimé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/supervisor\supervisor.py : psutil
+[2025-02-11 23:32:55] ✅ Import inutile supprimé dans C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/ai_core/task_manager\task_manager.py : psutil
+[2025-02-11 23:32:55] ✅ Optimisation terminée.

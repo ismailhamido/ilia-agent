@@ -1,0 +1,66 @@
+import os
+import sys
+import subprocess
+import psutil
+from datetime import datetime
+
+# Vérification et installation de psutil si nécessaire
+try:
+    import psutil
+except ImportError:
+    print("📌 psutil non installé, installation en cours...")
+    subprocess.check_call([sys.executable, "-m", "pip", "install", "psutil"])
+    import psutil
+
+# Nom du fichier à modifier et fichier de logs
+script_to_modify = "C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/script_to_be_modified.py"
+log_file = "C:/Users/Utilisateurs4717/Auto-GPT/auto_gpt_workspace/log.txt"
+
+def log_action(message):
+    """Écrit une action dans le fichier log avec un horodatage."""
+    timestamp = datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+    with open(log_file, "a", encoding="utf-8") as file:
+        file.write(f"[{timestamp}] {message}\n")
+
+def modify_script():
+    """Ajoute une ligne au script pour voir si la modification fonctionne, sans doublon."""
+    new_line = "print('Nouvelle modification ajoutée par Ilia.')"
+
+    # Lire le contenu du fichier pour vérifier si la ligne existe déjà
+    with open(script_to_modify, "r", encoding="utf-8") as file:
+        lines = file.readlines()
+
+    if new_line + "\n" not in lines:
+        with open(script_to_modify, "a", encoding="utf-8") as file:
+            file.write("\n" + new_line)
+        log_action("Modification ajoutée avec succès.")
+        print("✅ Modification ajoutée avec succès.")
+    else:
+        log_action("⚠️ Modification déjà présente, pas besoin de l'ajouter.")
+        print("⚠️ La modification existe déjà, pas besoin de l'ajouter.")
+
+def execute_script():
+    """Exécute le script modifié et affiche la sortie proprement."""
+    print("\n🚀 Exécution du script modifié...\n")
+    try:
+        result = subprocess.run(["python", script_to_modify], text=True, capture_output=True)
+        log_action(f"Exécution du script :\n{result.stdout}")
+        print(result.stdout)
+        if result.stderr:
+            log_action(f"❌ Erreur détectée : {result.stderr}")
+            print("❌ Erreur détectée :", result.stderr)
+    except Exception as e:
+        log_action(f"❌ Une erreur s'est produite : {e}")
+        print(f"❌ Une erreur s'est produite : {e}")
+
+# 1️⃣ Modifier le script
+modify_script()
+
+# 2️⃣ Exécuter le script modifié
+execute_script()
+[2025-02-11 03:21:32] Exécution du script :
+This is the original script.
+Script has been modified.
+New modification added by the AI.
+Nouvelle modification ajoutée par Ilia.
+Nouvelle modification ajoutée par Ilia.

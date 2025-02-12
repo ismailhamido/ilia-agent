@@ -1,0 +1,7 @@
+{
+    "chrome.exe": "low",
+    "firefox.exe": "low",
+    "discord.exe": "low",
+    "python.exe": "high",
+    "system": "high"
+}

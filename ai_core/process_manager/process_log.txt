@@ -1,0 +1,75 @@
+[2025-02-11 23:57:40] 🚀 Lancement du gestionnaire de processus...
+[2025-02-11 23:57:41] 📊 CPU : 62.5%, RAM : 87.7%
+[2025-02-11 23:57:47] 📊 CPU : 63.5%, RAM : 83.7%
+[2025-02-11 23:57:53] 📊 CPU : 67.3%, RAM : 85.5%
+[2025-02-11 23:58:00] 📊 CPU : 65.1%, RAM : 86.9%
+[2025-02-11 23:58:06] 📊 CPU : 69.7%, RAM : 87.6%
+[2025-02-11 23:58:12] 📊 CPU : 61.5%, RAM : 84.0%
+[2025-02-11 23:58:18] 📊 CPU : 60.2%, RAM : 84.9%
+[2025-02-11 23:58:24] 📊 CPU : 67.0%, RAM : 88.2%
+[2025-02-11 23:58:30] 📊 CPU : 72.6%, RAM : 89.0%
+[2025-02-11 23:58:36] 📊 CPU : 70.9%, RAM : 90.1%
+[2025-02-11 23:58:42] 📊 CPU : 63.0%, RAM : 91.0%
+[2025-02-11 23:58:48] 📊 CPU : 61.6%, RAM : 92.5%
+[2025-02-11 23:58:54] 📊 CPU : 65.1%, RAM : 91.7%
+[2025-02-11 23:59:00] 📊 CPU : 72.1%, RAM : 92.6%
+[2025-02-11 23:59:06] 📊 CPU : 68.3%, RAM : 93.9%
+[2025-02-11 23:59:12] 📊 CPU : 63.2%, RAM : 92.0%
+[2025-02-11 23:59:18] 📊 CPU : 37.0%, RAM : 60.2%
+[2025-02-11 23:59:18] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-11 23:59:24] 📊 CPU : 10.1%, RAM : 60.3%
+[2025-02-11 23:59:24] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-11 23:59:30] 📊 CPU : 6.2%, RAM : 61.9%
+[2025-02-11 23:59:30] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-11 23:59:36] 📊 CPU : 16.9%, RAM : 62.9%
+[2025-02-11 23:59:36] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-11 23:59:42] 📊 CPU : 21.7%, RAM : 64.7%
+[2025-02-11 23:59:42] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-11 23:59:48] 📊 CPU : 16.6%, RAM : 64.6%
+[2025-02-11 23:59:48] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-11 23:59:54] 📊 CPU : 17.3%, RAM : 64.8%
+[2025-02-11 23:59:54] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:00:00] 📊 CPU : 17.5%, RAM : 64.9%
+[2025-02-12 00:00:00] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:00:06] 📊 CPU : 31.5%, RAM : 65.3%
+[2025-02-12 00:00:06] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:00:12] 📊 CPU : 28.0%, RAM : 65.4%
+[2025-02-12 00:00:12] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:00:18] 📊 CPU : 17.9%, RAM : 66.0%
+[2025-02-12 00:00:18] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:00:24] 📊 CPU : 26.6%, RAM : 65.7%
+[2025-02-12 00:00:24] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:00:30] 📊 CPU : 49.7%, RAM : 66.5%
+[2025-02-12 00:00:30] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:00:36] 📊 CPU : 10.7%, RAM : 65.0%
+[2025-02-12 00:00:36] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:00:42] 📊 CPU : 8.8%, RAM : 65.1%
+[2025-02-12 00:00:42] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:00:48] 📊 CPU : 9.9%, RAM : 66.1%
+[2025-02-12 00:00:48] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:00:54] 📊 CPU : 19.2%, RAM : 65.8%
+[2025-02-12 00:00:54] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:01:00] 📊 CPU : 7.7%, RAM : 65.9%
+[2025-02-12 00:01:00] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:01:06] 📊 CPU : 4.9%, RAM : 65.8%
+[2025-02-12 00:01:06] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:01:12] 📊 CPU : 3.3%, RAM : 65.7%
+[2025-02-12 00:01:12] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:01:18] 📊 CPU : 11.0%, RAM : 65.6%
+[2025-02-12 00:01:18] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:01:24] 📊 CPU : 5.3%, RAM : 66.2%
+[2025-02-12 00:01:24] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:01:30] 📊 CPU : 11.1%, RAM : 65.9%
+[2025-02-12 00:01:30] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:01:36] 📊 CPU : 5.7%, RAM : 66.2%
+[2025-02-12 00:01:36] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:01:42] 📊 CPU : 4.7%, RAM : 66.1%
+[2025-02-12 00:01:42] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:01:48] 📊 CPU : 34.2%, RAM : 66.3%
+[2025-02-12 00:01:48] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:01:54] 📊 CPU : 16.9%, RAM : 66.3%
+[2025-02-12 00:01:54] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:02:00] 📊 CPU : 12.0%, RAM : 66.2%
+[2025-02-12 00:02:00] ✅ Charge normale détectée. Reprise des processus en pause.
+[2025-02-12 00:02:06] 📊 CPU : 7.8%, RAM : 66.3%
+[2025-02-12 00:02:06] ✅ Charge normale détectée. Reprise des processus en pause.

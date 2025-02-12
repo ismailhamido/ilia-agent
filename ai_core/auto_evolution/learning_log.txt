@@ -1,0 +1,169 @@
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Building a Python Command-Line To-Do App With Typer
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Explore Real Python
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : New Releases
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : How to Join Strings in Python
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : How to Split a String in Python
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : NumPy Techniques and Practical Examples
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Python for Loops: The Pythonic Way
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Develop Data Visualization Interfaces in Python With Dash
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Build a Quiz Application With Python
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Top Python Game Engines
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Build a Dice-Rolling Application With Python
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Natural Language Processing With spaCy in Python
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : A Guide to Modern Python String Formatting Tools
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Python & APIs: A Winning Combo for Reading Public Data
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Build a Tic-Tac-Toe Game With Python and Tkinter
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Providing Multiple Constructors in Your Python Classes
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Split Your Dataset With scikit-learn's train_test_split()
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Creating a Scalable Flask Web Application From Scratch
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : How to Split a Python List or Iterable Into Chunks
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Python's Mutable vs Immutable Types: What's the Difference?
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Lists vs Tuples in Python
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : First Python Program
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 1. Python Fundamentals
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 2. Python Functions
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 3. Python Data Structures
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 4. Python OOPs Concepts
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 5. Python Exception Handling
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 6. File Handling
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 7. Python Database Handling
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 8. Python Packages or Libraries
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 9. Data Science with Python
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 10. Web Development with Python
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Python Quizzes
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Features of Python
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Applications of Python
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Python vs. Other Programming Languages
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : List of Companies Using Python
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Career & Jobs in Python
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Python Latest & Upcoming Features
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Python Programming Language - FAQs
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Python Basics
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : Data Types
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : What kind of Experience do you want to share?
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : DEV Community
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 
+
+          Mendota-103: Training a Language Model AI Chatbot in Just One Hour
+        
+
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 
+
+          My Python Language Solution to Task 2: Decode XOR from The Weekly Challenge 308
+        
+
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 
+
+          Python: The Ultimate Guide – Features, Concepts, Use Cases, and Best Practices
+        
+
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 
+
+          Data Analysis Tools: How to Choose the Best One for Your Project
+        
+
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 
+
+          LIBRARY VS FRAMEWORK
+        
+
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 
+
+          Introducing a new python library biobridge for simulating biological processes
+        
+
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 
+
+          OpenAI tool calling example
+        
+
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 
+
+          Semantic search on top of object detection
+        
+
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 
+
+          🚀 Introducing Chat-Based Resume Creator: Your AI-Powered Resume Assistant! 🎯
+        
+
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 
+
+          AI, LocalLLM and DeepSeek. What is it all about and how to dive into the world of LLM?
+        
+
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 
+
+          Django: Turbocharging Performance and Scalability
+        
+
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 
+
+          My Python and Raku Language Solutions to Task 1: Count Common from The Weekly Challenge 308
+        
+
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 
+
+          Getting Started with AWS SageMaker: Train and Deploy a Model in the Cloud for Cybersecurity Threat Detection (Part 2)
+        
+
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 
+
+          RandomResizedCrop in PyTorch (1)
+        
+
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 
+
+          RandomResizedCrop in PyTorch (2)
+        
+
+[2025-02-12 02:33:58] 📚 Nouvelle optimisation détectée : 
+
+          Deploying a Number Classification API on AWS Lambda + API Gateway using Zappa
+        
+
+[2025-02-12 02:33:59] 📚 Nouvelle optimisation détectée : 
+
+          How Python Is Powering Growth in 5 Leading Industries
+        
+
+[2025-02-12 02:33:59] 📚 Nouvelle optimisation détectée : 
+
+          Have a product idea? Use this SaaS template!
+        
+
+[2025-02-12 02:33:59] 📚 Nouvelle optimisation détectée : 
+
+          Building Scalable Data Pipelines with Python – A Complete Guide
+        
+
+[2025-02-12 02:33:59] 📚 Nouvelle optimisation détectée : 
+
+          Stock Fundamental Analysis Using Python and Streamlit
+        
+
+[2025-02-12 02:33:59] 📚 Nouvelle optimisation détectée : 
+
+          ArcticDB Financial and Historical analysis just way faster.
+        
+
+[2025-02-12 02:33:59] 📚 Nouvelle optimisation détectée : 
+
+          Data science for marketing
+        
+
+[2025-02-12 02:33:59] 📚 Nouvelle optimisation détectée : 
+
+          Crafting a Digital Masterpiece: The Journey of Building the Rooh London Website with C++, Java, and Python
+        
+
+[2025-02-12 02:33:59] 📚 Nouvelle optimisation détectée : 
+
+          Building a CRUD Application with Flask and SQLAlchemy
+        
+
+[2025-02-12 02:33:59] 📚 Nouvelle optimisation détectée : 
+
+          ICP駆動のイノベーション
+        
+

@@ -1,0 +1,7 @@
+{
+    "can't open file": "Vérifie que le chemin du fichier est correct et accessible.",
+    "ModuleNotFoundError": "pip install psutil",
+    "Permission denied": "Essaie d'exécuter le script en administrateur.",
+    "Restart Required": "Restart"
+}
+
