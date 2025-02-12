@@ -1126,3 +1126,27 @@
 [2025-02-12 04:22:35] 🔍 Comparaison 04:21 : Prédit RAM 72.9%, Réel 75.2% → Écart 2.299999999999997%
 [2025-02-12 04:22:35] ⚠️ Erreur détectée, correction des pondérations...
 [2025-02-12 04:22:35] ✅ Correction appliquée : CPU 16.4%, RAM 73.4%
+[2025-02-12 04:23:11] 🔍 Comparaison 04:22 : Prédit CPU 11.9%, Réel 9.9% → Écart 2.0%
+[2025-02-12 04:23:11] 🔍 Comparaison 04:22 : Prédit RAM 73.1%, Réel 73.0% → Écart 0.09999999999999432%
+[2025-02-12 04:23:36] 🔍 Comparaison 04:22 : Prédit CPU 11.9%, Réel 9.4% → Écart 2.5%
+[2025-02-12 04:23:36] 🔍 Comparaison 04:22 : Prédit RAM 73.1%, Réel 72.7% → Écart 0.3999999999999915%
+[2025-02-12 04:24:12] 🔍 Comparaison 04:23 : Prédit CPU 19.1%, Réel 17.6% → Écart 1.5%
+[2025-02-12 04:24:12] 🔍 Comparaison 04:23 : Prédit RAM 73.1%, Réel 73.6% → Écart 0.5%
+[2025-02-12 04:24:37] 🔍 Comparaison 04:23 : Prédit CPU 19.1%, Réel 25.4% → Écart 6.299999999999997%
+[2025-02-12 04:24:37] 🔍 Comparaison 04:23 : Prédit RAM 73.1%, Réel 76.7% → Écart 3.6000000000000085%
+[2025-02-12 04:25:13] 🔍 Comparaison 04:24 : Prédit CPU 10.7%, Réel 9.2% → Écart 1.5%
+[2025-02-12 04:25:13] 🔍 Comparaison 04:24 : Prédit RAM 77.6%, Réel 77.3% → Écart 0.29999999999999716%
+[2025-02-12 04:25:38] 🔍 Comparaison 04:24 : Prédit CPU 10.7%, Réel 19.3% → Écart 8.600000000000001%
+[2025-02-12 04:25:38] 🔍 Comparaison 04:24 : Prédit RAM 77.6%, Réel 79.9% → Écart 2.3000000000000114%
+[2025-02-12 04:26:14] 🔍 Comparaison 04:25 : Prédit CPU 16.9%, Réel 19.6% → Écart 2.700000000000003%
+[2025-02-12 04:26:14] 🔍 Comparaison 04:25 : Prédit RAM 79.8%, Réel 79.8% → Écart 0.0%
+[2025-02-12 04:26:39] 🔍 Comparaison 04:25 : Prédit CPU 16.9%, Réel 7.3% → Écart 9.599999999999998%
+[2025-02-12 04:26:39] 🔍 Comparaison 04:25 : Prédit RAM 79.8%, Réel 79.7% → Écart 0.09999999999999432%
+[2025-02-12 04:27:15] 🔍 Comparaison 04:26 : Prédit CPU 7.9%, Réel 13.3% → Écart 5.4%
+[2025-02-12 04:27:15] 🔍 Comparaison 04:26 : Prédit RAM 78.9%, Réel 79.2% → Écart 0.29999999999999716%
+[2025-02-12 04:27:40] 🔍 Comparaison 04:26 : Prédit CPU 7.9%, Réel 10.4% → Écart 2.5%
+[2025-02-12 04:27:40] 🔍 Comparaison 04:26 : Prédit RAM 78.9%, Réel 79.1% → Écart 0.19999999999998863%
+[2025-02-12 04:28:16] 🔍 Comparaison 04:27 : Prédit CPU 20.2%, Réel 12.5% → Écart 7.699999999999999%
+[2025-02-12 04:28:16] 🔍 Comparaison 04:27 : Prédit RAM 78.8%, Réel 78.7% → Écart 0.09999999999999432%
+[2025-02-12 04:28:41] 🔍 Comparaison 04:27 : Prédit CPU 20.2%, Réel 10.7% → Écart 9.5%
+[2025-02-12 04:28:41] 🔍 Comparaison 04:27 : Prédit RAM 78.8%, Réel 79.2% → Écart 0.4000000000000057%

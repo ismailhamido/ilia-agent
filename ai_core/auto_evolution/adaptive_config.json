@@ -2,5 +2,5 @@
     "cpu_threshold": 96.0,
     "ram_threshold": 102.0,
     "adjustment_factor": 1.2,
-    "evolution_cycles": 343
+    "evolution_cycles": 361
 }
