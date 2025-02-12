@@ -6823,3 +6823,81 @@
 [2025-02-12 04:14:34] 📊 CPU : 17.2%, RAM : 79.5%
 [2025-02-12 04:14:34] ⚠️ Charge élevée détectée, allongement de l'intervalle.
 [2025-02-12 04:14:34] 🔄 Ajustement dynamique : CPU 17.2%, RAM 79.5%, Nouvel Intervalle : 120s
+[2025-02-12 04:16:21] 📊 CPU : 10.5%, RAM : 81.9%
+[2025-02-12 04:16:21] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:16:21] 🔄 Ajustement dynamique : CPU 10.5%, RAM 81.9%, Nouvel Intervalle : 30s
+[2025-02-12 04:16:35] 📊 CPU : 11.5%, RAM : 81.6%
+[2025-02-12 04:16:35] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:16:35] 🔄 Ajustement dynamique : CPU 11.5%, RAM 81.6%, Nouvel Intervalle : 30s
+[2025-02-12 04:16:52] 📊 CPU : 7.4%, RAM : 81.2%
+[2025-02-12 04:16:52] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:16:52] 🔄 Ajustement dynamique : CPU 7.4%, RAM 81.2%, Nouvel Intervalle : 30s
+[2025-02-12 04:17:06] 📊 CPU : 24.6%, RAM : 81.2%
+[2025-02-12 04:17:06] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:17:06] 🔄 Ajustement dynamique : CPU 24.6%, RAM 81.2%, Nouvel Intervalle : 30s
+[2025-02-12 04:17:23] 📊 CPU : 21.3%, RAM : 82.9%
+[2025-02-12 04:17:23] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:17:23] 🔄 Ajustement dynamique : CPU 21.3%, RAM 82.9%, Nouvel Intervalle : 30s
+[2025-02-12 04:17:37] 📊 CPU : 23.4%, RAM : 82.5%
+[2025-02-12 04:17:37] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:17:37] 🔄 Ajustement dynamique : CPU 23.4%, RAM 82.5%, Nouvel Intervalle : 30s
+[2025-02-12 04:17:54] 📊 CPU : 20.9%, RAM : 81.7%
+[2025-02-12 04:17:54] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:17:54] 🔄 Ajustement dynamique : CPU 20.9%, RAM 81.7%, Nouvel Intervalle : 30s
+[2025-02-12 04:18:08] 📊 CPU : 35.6%, RAM : 83.1%
+[2025-02-12 04:18:08] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:18:08] 🔄 Ajustement dynamique : CPU 35.6%, RAM 83.1%, Nouvel Intervalle : 30s
+[2025-02-12 04:18:25] 📊 CPU : 12.2%, RAM : 82.4%
+[2025-02-12 04:18:25] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:18:25] 🔄 Ajustement dynamique : CPU 12.2%, RAM 82.4%, Nouvel Intervalle : 30s
+[2025-02-12 04:18:39] 📊 CPU : 12.8%, RAM : 81.5%
+[2025-02-12 04:18:39] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:18:39] 🔄 Ajustement dynamique : CPU 12.8%, RAM 81.5%, Nouvel Intervalle : 30s
+[2025-02-12 04:18:56] 📊 CPU : 17.5%, RAM : 80.9%
+[2025-02-12 04:18:56] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:18:56] 🔄 Ajustement dynamique : CPU 17.5%, RAM 80.9%, Nouvel Intervalle : 30s
+[2025-02-12 04:19:10] 📊 CPU : 7.2%, RAM : 84.8%
+[2025-02-12 04:19:10] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:19:10] 🔄 Ajustement dynamique : CPU 7.2%, RAM 84.8%, Nouvel Intervalle : 30s
+[2025-02-12 04:19:27] 📊 CPU : 13.6%, RAM : 85.7%
+[2025-02-12 04:19:27] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:19:27] 🔄 Ajustement dynamique : CPU 13.6%, RAM 85.7%, Nouvel Intervalle : 30s
+[2025-02-12 04:19:41] 📊 CPU : 12.4%, RAM : 79.5%
+[2025-02-12 04:19:41] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:19:41] 🔄 Ajustement dynamique : CPU 12.4%, RAM 79.5%, Nouvel Intervalle : 30s
+[2025-02-12 04:19:58] 📊 CPU : 15.8%, RAM : 72.3%
+[2025-02-12 04:19:58] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:19:58] 🔄 Ajustement dynamique : CPU 15.8%, RAM 72.3%, Nouvel Intervalle : 30s
+[2025-02-12 04:20:12] 📊 CPU : 16.9%, RAM : 71.8%
+[2025-02-12 04:20:12] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:20:12] 🔄 Ajustement dynamique : CPU 16.9%, RAM 71.8%, Nouvel Intervalle : 30s
+[2025-02-12 04:20:29] 📊 CPU : 15.6%, RAM : 71.8%
+[2025-02-12 04:20:29] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:20:29] 🔄 Ajustement dynamique : CPU 15.6%, RAM 71.8%, Nouvel Intervalle : 30s
+[2025-02-12 04:20:43] 📊 CPU : 8.3%, RAM : 71.6%
+[2025-02-12 04:20:44] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:20:44] 🔄 Ajustement dynamique : CPU 8.3%, RAM 71.6%, Nouvel Intervalle : 30s
+[2025-02-12 04:21:01] 📊 CPU : 10.7%, RAM : 71.6%
+[2025-02-12 04:21:01] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:21:01] 🔄 Ajustement dynamique : CPU 10.7%, RAM 71.6%, Nouvel Intervalle : 30s
+[2025-02-12 04:21:15] 📊 CPU : 12.2%, RAM : 72.4%
+[2025-02-12 04:21:15] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:21:15] 🔄 Ajustement dynamique : CPU 12.2%, RAM 72.4%, Nouvel Intervalle : 30s
+[2025-02-12 04:21:32] 📊 CPU : 9.9%, RAM : 72.9%
+[2025-02-12 04:21:32] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:21:32] 🔄 Ajustement dynamique : CPU 9.9%, RAM 72.9%, Nouvel Intervalle : 30s
+[2025-02-12 04:21:46] 📊 CPU : 11.7%, RAM : 73.0%
+[2025-02-12 04:21:46] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:21:46] 🔄 Ajustement dynamique : CPU 11.7%, RAM 73.0%, Nouvel Intervalle : 30s
+[2025-02-12 04:22:03] 📊 CPU : 9.4%, RAM : 73.1%
+[2025-02-12 04:22:03] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:22:03] 🔄 Ajustement dynamique : CPU 9.4%, RAM 73.1%, Nouvel Intervalle : 30s
+[2025-02-12 04:22:17] 📊 CPU : 15.8%, RAM : 73.8%
+[2025-02-12 04:22:17] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:22:17] 🔄 Ajustement dynamique : CPU 15.8%, RAM 73.8%, Nouvel Intervalle : 30s
+[2025-02-12 04:22:34] 📊 CPU : 52.4%, RAM : 74.6%
+[2025-02-12 04:22:34] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:22:34] 🔄 Ajustement dynamique : CPU 52.4%, RAM 74.6%, Nouvel Intervalle : 30s
+[2025-02-12 04:22:48] 📊 CPU : 11.8%, RAM : 74.2%
+[2025-02-12 04:22:48] 🔄 Charge stable, maintien de l'intervalle.
+[2025-02-12 04:22:48] 🔄 Ajustement dynamique : CPU 11.8%, RAM 74.2%, Nouvel Intervalle : 30s

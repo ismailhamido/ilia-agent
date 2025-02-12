@@ -5264,3 +5264,80 @@
 [2025-02-12 04:15:24] Evolution cycle : 321
 [2025-02-12 04:15:33] 📊 CPU : 17.4%, RAM : 82.2%. Prochain scan dans 59.60 sec.
 [2025-02-12 04:15:33] 📊 CPU : 16.4%, RAM : 82.1%. Prochain scan dans 75.94 sec.
+[2025-02-12 04:15:44] 📊 CPU : 17.7%, RAM : 82.2%. Prochain scan dans 57.22 sec.
+[2025-02-12 04:15:44] Evolution cycle : 322
+[2025-02-12 04:15:55] 📊 CPU : 16.3%, RAM : 81.9%. Prochain scan dans 75.94 sec.
+[2025-02-12 04:16:04] Evolution cycle : 323
+[2025-02-12 04:16:15] 📊 CPU : 25.2%, RAM : 82.1%
+[2025-02-12 04:16:15] 🔄 Nouvel intervalle d’analyse : 120 secondes.
+[2025-02-12 04:16:24] Evolution cycle : 324
+[2025-02-12 04:16:32] 📊 CPU : 13.3%, RAM : 81.4%. Prochain scan dans 59.60 sec.
+[2025-02-12 04:16:41] 📊 CPU : 12.5%, RAM : 81.4%. Prochain scan dans 57.22 sec.
+[2025-02-12 04:16:44] Evolution cycle : 325
+[2025-02-12 04:16:49] 📊 CPU : 13.2%, RAM : 81.4%. Prochain scan dans 75.94 sec.
+[2025-02-12 04:17:04] Evolution cycle : 326
+[2025-02-12 04:17:10] 📊 CPU : 12.8%, RAM : 81.9%. Prochain scan dans 75.94 sec.
+[2025-02-12 04:17:24] Evolution cycle : 327
+[2025-02-12 04:17:32] 📊 CPU : 15.8%, RAM : 82.2%. Prochain scan dans 59.60 sec.
+[2025-02-12 04:17:38] 📊 CPU : 16.1%, RAM : 82.6%. Prochain scan dans 57.22 sec.
+[2025-02-12 04:17:45] Evolution cycle : 328
+[2025-02-12 04:18:05] Evolution cycle : 329
+[2025-02-12 04:18:05] 📊 CPU : 18.8%, RAM : 82.9%. Prochain scan dans 75.94 sec.
+[2025-02-12 04:18:16] 📊 CPU : 13.0%, RAM : 83.0%
+[2025-02-12 04:18:16] 🔄 Nouvel intervalle d’analyse : 120 secondes.
+[2025-02-12 04:18:25] Evolution cycle : 330
+[2025-02-12 04:18:26] 📊 CPU : 19.2%, RAM : 82.4%. Prochain scan dans 75.94 sec.
+[2025-02-12 04:18:32] 📊 CPU : 18.4%, RAM : 82.5%. Prochain scan dans 59.60 sec.
+[2025-02-12 04:18:35] 📊 CPU : 18.5%, RAM : 81.6%. Prochain scan dans 57.22 sec.
+[2025-02-12 04:18:45] Evolution cycle : 331
+[2025-02-12 04:19:05] Evolution cycle : 332
+[2025-02-12 04:19:21] 📊 CPU : 15.3%, RAM : 84.3%. Prochain scan dans 75.94 sec.
+[2025-02-12 04:19:25] Evolution cycle : 333
+[2025-02-12 04:19:31] 📊 CPU : 16.4%, RAM : 85.8%. Prochain scan dans 59.60 sec.
+[2025-02-12 04:19:31] ⚠️ Charge élevée ! Augmentation de l'intervalle à 89.41 sec.
+[2025-02-12 04:19:31] 🛑 Processus gourmand détecté : firefox.exe (PID: 13596), arrêt en cours...
+[2025-02-12 04:19:31] ✅ firefox.exe arrêté avec succès.
+[2025-02-12 04:19:32] 📊 CPU : 16.7%, RAM : 79.3%. Prochain scan dans 57.22 sec.
+[2025-02-12 04:19:42] 📊 CPU : 16.9%, RAM : 79.6%. Prochain scan dans 75.94 sec.
+[2025-02-12 04:19:45] Evolution cycle : 334
+[2025-02-12 04:19:45] 📊 CPU : 12.7%, RAM : 79.4%. Prochain scan dans 30 sec.
+[2025-02-12 04:20:05] Evolution cycle : 335
+[2025-02-12 04:20:16] 📊 CPU : 8.9%, RAM : 71.7%. Prochain scan dans 30 sec.
+[2025-02-12 04:20:17] 📊 CPU : 9.5%, RAM : 71.9%
+[2025-02-12 04:20:17] 🔄 Nouvel intervalle d’analyse : 120 secondes.
+[2025-02-12 04:20:25] Evolution cycle : 336
+[2025-02-12 04:20:30] 📊 CPU : 15.9%, RAM : 71.8%. Prochain scan dans 57.22 sec.
+[2025-02-12 04:20:30] ✅ Charge normale. Réduction de l'intervalle à 47.68 sec.
+[2025-02-12 04:20:37] 📊 CPU : 16.3%, RAM : 72.3%. Prochain scan dans 75.94 sec.
+[2025-02-12 04:20:37] ✅ Charge normale. Réduction de l'intervalle à 63.28 sec.
+[2025-02-12 04:20:45] Evolution cycle : 337
+[2025-02-12 04:20:58] 📊 CPU : 14.0%, RAM : 71.6%. Prochain scan dans 75.94 sec.
+[2025-02-12 04:20:58] ✅ Charge normale. Réduction de l'intervalle à 63.28 sec.
+[2025-02-12 04:21:01] 📊 CPU : 15.0%, RAM : 71.6%. Prochain scan dans 89.41 sec.
+[2025-02-12 04:21:01] ✅ Charge normale. Réduction de l'intervalle à 74.51 sec.
+[2025-02-12 04:21:05] Evolution cycle : 338
+[2025-02-12 04:21:17] 📊 CPU : 13.0%, RAM : 72.2%. Prochain scan dans 47.68 sec.
+[2025-02-12 04:21:17] ✅ Charge normale. Réduction de l'intervalle à 39.74 sec.
+[2025-02-12 04:21:25] Evolution cycle : 339
+[2025-02-12 04:21:40] 📊 CPU : 13.6%, RAM : 73.2%. Prochain scan dans 63.28 sec.
+[2025-02-12 04:21:40] ✅ Charge normale. Réduction de l'intervalle à 52.73 sec.
+[2025-02-12 04:21:45] Evolution cycle : 340
+[2025-02-12 04:21:57] 📊 CPU : 12.5%, RAM : 73.0%. Prochain scan dans 39.74 sec.
+[2025-02-12 04:21:57] ✅ Charge normale. Réduction de l'intervalle à 33.11 sec.
+[2025-02-12 04:22:02] 📊 CPU : 12.7%, RAM : 72.9%. Prochain scan dans 63.28 sec.
+[2025-02-12 04:22:02] ✅ Charge normale. Réduction de l'intervalle à 52.73 sec.
+[2025-02-12 04:22:05] Evolution cycle : 341
+[2025-02-12 04:22:15] 📊 CPU : 12.5%, RAM : 73.9%. Prochain scan dans 74.51 sec.
+[2025-02-12 04:22:15] ✅ Charge normale. Réduction de l'intervalle à 62.09 sec.
+[2025-02-12 04:22:18] 📊 CPU : 17.6%, RAM : 73.9%
+[2025-02-12 04:22:18] 🔄 Nouvel intervalle d’analyse : 120 secondes.
+[2025-02-12 04:22:25] Evolution cycle : 342
+[2025-02-12 04:22:30] 📊 CPU : 15.6%, RAM : 74.1%. Prochain scan dans 33.11 sec.
+[2025-02-12 04:22:30] ✅ Charge normale. Réduction de l'intervalle à 27.59 sec.
+[2025-02-12 04:22:33] 📊 CPU : 14.0%, RAM : 74.9%. Prochain scan dans 52.73 sec.
+[2025-02-12 04:22:33] ✅ Charge normale. Réduction de l'intervalle à 43.95 sec.
+[2025-02-12 04:22:45] Evolution cycle : 343
+[2025-02-12 04:22:54] 📊 CPU : 17.2%, RAM : 73.2%. Prochain scan dans 52.73 sec.
+[2025-02-12 04:22:54] ✅ Charge normale. Réduction de l'intervalle à 43.95 sec.
+[2025-02-12 04:22:58] 📊 CPU : 17.6%, RAM : 73.0%. Prochain scan dans 27.59 sec.
+[2025-02-12 04:22:58] ✅ Charge normale. Réduction de l'intervalle à 23.00 sec.

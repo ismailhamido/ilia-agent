@@ -80,3 +80,4 @@
 [2025-02-12 03:53:11] ⚠️ Anomalie CPU détectée : 20.5% de variation en 1 min !
 [2025-02-12 04:01:28] ⚠️ Anomalie CPU détectée : 23.2% de variation en 1 min !
 [2025-02-12 04:12:50] ⚠️ Anomalie CPU détectée : 23.6% de variation en 1 min !
+[2025-02-12 04:19:03] ⚠️ Anomalie CPU détectée : 36.3% de variation en 1 min !

@@ -14231,3 +14231,441 @@
 [2025-02-12 04:15:40] ✅ Charge normale, intervalle à 3s.
 [2025-02-12 04:15:42] 📊 CPU : 23.0%, RAM : 82.4%
 [2025-02-12 04:15:42] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:15:44] 📊 CPU : 26.5%, RAM : 82.3%
+[2025-02-12 04:15:44] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:15:46] 📊 CPU : 16.4%, RAM : 82.3%
+[2025-02-12 04:15:46] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:15:48] 📊 CPU : 12.6%, RAM : 82.3%
+[2025-02-12 04:15:48] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:15:50] 📊 CPU : 10.6%, RAM : 82.2%
+[2025-02-12 04:15:50] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:15:52] 📊 CPU : 10.3%, RAM : 82.0%
+[2025-02-12 04:15:52] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:15:54] 📊 CPU : 8.0%, RAM : 81.9%
+[2025-02-12 04:15:54] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:15:56] 📊 CPU : 6.5%, RAM : 81.8%
+[2025-02-12 04:15:56] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:15:58] 📊 CPU : 19.6%, RAM : 81.9%
+[2025-02-12 04:15:58] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:00] 📊 CPU : 8.3%, RAM : 81.9%
+[2025-02-12 04:16:00] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:02] 📊 CPU : 9.5%, RAM : 81.8%
+[2025-02-12 04:16:02] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:04] 📊 CPU : 9.0%, RAM : 81.8%
+[2025-02-12 04:16:04] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:06] 📊 CPU : 27.7%, RAM : 81.9%
+[2025-02-12 04:16:06] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:08] 📊 CPU : 14.6%, RAM : 81.9%
+[2025-02-12 04:16:08] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:10] 📊 CPU : 2.9%, RAM : 81.9%
+[2025-02-12 04:16:10] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:12] 📊 CPU : 11.8%, RAM : 80.7%
+[2025-02-12 04:16:12] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:14] 📊 CPU : 26.4%, RAM : 81.7%
+[2025-02-12 04:16:14] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:16] 📊 CPU : 20.7%, RAM : 82.0%
+[2025-02-12 04:16:16] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:18] 📊 CPU : 10.4%, RAM : 82.0%
+[2025-02-12 04:16:18] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:20] 📊 CPU : 10.5%, RAM : 82.0%
+[2025-02-12 04:16:20] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:22] 📊 CPU : 7.9%, RAM : 81.9%
+[2025-02-12 04:16:22] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:24] 📊 CPU : 7.2%, RAM : 81.7%
+[2025-02-12 04:16:24] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:26] 📊 CPU : 11.7%, RAM : 81.7%
+[2025-02-12 04:16:26] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:28] 📊 CPU : 9.9%, RAM : 81.3%
+[2025-02-12 04:16:28] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:30] 📊 CPU : 7.4%, RAM : 81.3%
+[2025-02-12 04:16:30] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:32] 📊 CPU : 9.4%, RAM : 81.4%
+[2025-02-12 04:16:32] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:34] 📊 CPU : 11.5%, RAM : 81.6%
+[2025-02-12 04:16:34] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:36] 📊 CPU : 12.0%, RAM : 81.5%
+[2025-02-12 04:16:36] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:38] 📊 CPU : 14.9%, RAM : 81.5%
+[2025-02-12 04:16:38] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:40] 📊 CPU : 14.2%, RAM : 81.4%
+[2025-02-12 04:16:40] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:42] 📊 CPU : 9.2%, RAM : 81.5%
+[2025-02-12 04:16:42] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:44] 📊 CPU : 14.8%, RAM : 81.6%
+[2025-02-12 04:16:44] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:46] 📊 CPU : 21.8%, RAM : 81.1%
+[2025-02-12 04:16:46] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:48] 📊 CPU : 6.2%, RAM : 81.5%
+[2025-02-12 04:16:48] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:50] 📊 CPU : 12.8%, RAM : 81.2%
+[2025-02-12 04:16:50] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:52] 📊 CPU : 9.1%, RAM : 81.2%
+[2025-02-12 04:16:52] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:54] 📊 CPU : 7.2%, RAM : 81.2%
+[2025-02-12 04:16:54] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:56] 📊 CPU : 6.2%, RAM : 81.1%
+[2025-02-12 04:16:56] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:16:58] 📊 CPU : 5.9%, RAM : 81.1%
+[2025-02-12 04:16:58] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:00] 📊 CPU : 11.2%, RAM : 81.2%
+[2025-02-12 04:17:00] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:02] 📊 CPU : 18.1%, RAM : 81.2%
+[2025-02-12 04:17:02] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:05] 📊 CPU : 8.7%, RAM : 81.1%
+[2025-02-12 04:17:05] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:06] 📊 CPU : 25.9%, RAM : 81.2%
+[2025-02-12 04:17:06] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:09] 📊 CPU : 21.9%, RAM : 81.4%
+[2025-02-12 04:17:09] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:10] 📊 CPU : 20.2%, RAM : 82.0%
+[2025-02-12 04:17:10] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:13] 📊 CPU : 13.7%, RAM : 81.8%
+[2025-02-12 04:17:13] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:14] 📊 CPU : 25.7%, RAM : 82.6%
+[2025-02-12 04:17:14] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:17] 📊 CPU : 34.2%, RAM : 82.2%
+[2025-02-12 04:17:17] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:18] 📊 CPU : 29.8%, RAM : 82.3%
+[2025-02-12 04:17:18] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:21] 📊 CPU : 16.3%, RAM : 82.6%
+[2025-02-12 04:17:21] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:22] 📊 CPU : 21.8%, RAM : 83.2%
+[2025-02-12 04:17:22] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:25] 📊 CPU : 10.8%, RAM : 82.9%
+[2025-02-12 04:17:25] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:26] 📊 CPU : 13.2%, RAM : 82.5%
+[2025-02-12 04:17:26] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:29] 📊 CPU : 11.8%, RAM : 82.2%
+[2025-02-12 04:17:29] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:30] 📊 CPU : 12.9%, RAM : 82.3%
+[2025-02-12 04:17:30] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:33] 📊 CPU : 8.6%, RAM : 82.2%
+[2025-02-12 04:17:33] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:34] 📊 CPU : 9.4%, RAM : 82.2%
+[2025-02-12 04:17:34] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:37] 📊 CPU : 23.7%, RAM : 82.7%
+[2025-02-12 04:17:37] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:38] 📊 CPU : 27.9%, RAM : 82.5%
+[2025-02-12 04:17:38] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:41] 📊 CPU : 18.6%, RAM : 82.5%
+[2025-02-12 04:17:41] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:42] 📊 CPU : 21.4%, RAM : 82.9%
+[2025-02-12 04:17:42] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:45] 📊 CPU : 20.4%, RAM : 82.6%
+[2025-02-12 04:17:45] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:46] 📊 CPU : 20.3%, RAM : 82.5%
+[2025-02-12 04:17:46] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:49] 📊 CPU : 20.4%, RAM : 81.1%
+[2025-02-12 04:17:49] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:50] 📊 CPU : 39.0%, RAM : 83.1%
+[2025-02-12 04:17:50] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:53] 📊 CPU : 40.1%, RAM : 82.9%
+[2025-02-12 04:17:53] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:54] 📊 CPU : 22.5%, RAM : 81.6%
+[2025-02-12 04:17:54] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:57] 📊 CPU : 10.1%, RAM : 81.8%
+[2025-02-12 04:17:57] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:17:58] 📊 CPU : 14.6%, RAM : 81.6%
+[2025-02-12 04:17:58] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:01] 📊 CPU : 28.3%, RAM : 81.6%
+[2025-02-12 04:18:01] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:03] 📊 CPU : 15.8%, RAM : 81.5%
+[2025-02-12 04:18:03] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:05] 📊 CPU : 56.5%, RAM : 82.7%
+[2025-02-12 04:18:05] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:07] 📊 CPU : 19.4%, RAM : 82.5%
+[2025-02-12 04:18:07] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:09] 📊 CPU : 21.4%, RAM : 83.0%
+[2025-02-12 04:18:09] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:11] 📊 CPU : 17.9%, RAM : 82.9%
+[2025-02-12 04:18:11] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:13] 📊 CPU : 10.4%, RAM : 83.1%
+[2025-02-12 04:18:13] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:15] 📊 CPU : 13.5%, RAM : 83.0%
+[2025-02-12 04:18:15] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:17] 📊 CPU : 17.1%, RAM : 82.9%
+[2025-02-12 04:18:17] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:19] 📊 CPU : 17.7%, RAM : 82.8%
+[2025-02-12 04:18:19] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:21] 📊 CPU : 17.2%, RAM : 82.6%
+[2025-02-12 04:18:21] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:23] 📊 CPU : 7.2%, RAM : 82.5%
+[2025-02-12 04:18:23] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:25] 📊 CPU : 11.5%, RAM : 82.5%
+[2025-02-12 04:18:25] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:27] 📊 CPU : 7.0%, RAM : 82.4%
+[2025-02-12 04:18:27] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:29] 📊 CPU : 9.2%, RAM : 82.5%
+[2025-02-12 04:18:29] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:31] 📊 CPU : 9.5%, RAM : 82.4%
+[2025-02-12 04:18:31] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:33] 📊 CPU : 18.3%, RAM : 82.5%
+[2025-02-12 04:18:33] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:35] 📊 CPU : 13.8%, RAM : 80.9%
+[2025-02-12 04:18:35] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:37] 📊 CPU : 28.2%, RAM : 81.2%
+[2025-02-12 04:18:37] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:39] 📊 CPU : 31.5%, RAM : 81.6%
+[2025-02-12 04:18:39] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:41] 📊 CPU : 4.9%, RAM : 81.5%
+[2025-02-12 04:18:41] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:43] 📊 CPU : 7.5%, RAM : 81.5%
+[2025-02-12 04:18:43] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:45] 📊 CPU : 25.2%, RAM : 81.4%
+[2025-02-12 04:18:45] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:47] 📊 CPU : 11.9%, RAM : 81.2%
+[2025-02-12 04:18:47] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:49] 📊 CPU : 17.6%, RAM : 81.1%
+[2025-02-12 04:18:49] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:51] 📊 CPU : 4.5%, RAM : 81.0%
+[2025-02-12 04:18:51] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:53] 📊 CPU : 11.0%, RAM : 81.0%
+[2025-02-12 04:18:53] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:55] 📊 CPU : 20.3%, RAM : 80.9%
+[2025-02-12 04:18:55] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:57] 📊 CPU : 13.3%, RAM : 80.8%
+[2025-02-12 04:18:57] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:18:59] 📊 CPU : 11.7%, RAM : 80.8%
+[2025-02-12 04:18:59] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:01] 📊 CPU : 22.6%, RAM : 82.0%
+[2025-02-12 04:19:01] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:03] 📊 CPU : 47.8%, RAM : 84.5%
+[2025-02-12 04:19:03] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:05] 📊 CPU : 16.3%, RAM : 86.2%
+[2025-02-12 04:19:05] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:07] 📊 CPU : 9.8%, RAM : 84.9%
+[2025-02-12 04:19:07] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:09] 📊 CPU : 17.3%, RAM : 84.8%
+[2025-02-12 04:19:09] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:11] 📊 CPU : 16.9%, RAM : 84.8%
+[2025-02-12 04:19:11] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:13] 📊 CPU : 11.2%, RAM : 85.0%
+[2025-02-12 04:19:13] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:15] 📊 CPU : 17.5%, RAM : 84.9%
+[2025-02-12 04:19:15] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:17] 📊 CPU : 7.6%, RAM : 84.4%
+[2025-02-12 04:19:17] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:19] 📊 CPU : 6.8%, RAM : 84.4%
+[2025-02-12 04:19:19] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:21] 📊 CPU : 13.6%, RAM : 84.3%
+[2025-02-12 04:19:21] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:23] 📊 CPU : 23.9%, RAM : 85.6%
+[2025-02-12 04:19:23] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:25] 📊 CPU : 12.5%, RAM : 85.5%
+[2025-02-12 04:19:25] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:27] 📊 CPU : 11.1%, RAM : 85.7%
+[2025-02-12 04:19:27] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:29] 📊 CPU : 11.5%, RAM : 86.1%
+[2025-02-12 04:19:29] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:31] 📊 CPU : 12.8%, RAM : 85.8%
+[2025-02-12 04:19:31] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:33] 📊 CPU : 34.2%, RAM : 80.6%
+[2025-02-12 04:19:33] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:35] 📊 CPU : 26.3%, RAM : 79.1%
+[2025-02-12 04:19:35] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:37] 📊 CPU : 13.1%, RAM : 79.6%
+[2025-02-12 04:19:37] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:39] 📊 CPU : 16.4%, RAM : 79.8%
+[2025-02-12 04:19:39] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:41] 📊 CPU : 12.5%, RAM : 79.5%
+[2025-02-12 04:19:41] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:43] 📊 CPU : 10.3%, RAM : 79.6%
+[2025-02-12 04:19:43] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:45] 📊 CPU : 19.4%, RAM : 79.3%
+[2025-02-12 04:19:45] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:47] 📊 CPU : 14.4%, RAM : 79.1%
+[2025-02-12 04:19:47] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:49] 📊 CPU : 18.1%, RAM : 79.6%
+[2025-02-12 04:19:49] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:51] 📊 CPU : 34.5%, RAM : 79.3%
+[2025-02-12 04:19:51] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:54] 📊 CPU : 45.8%, RAM : 71.0%
+[2025-02-12 04:19:54] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:55] 📊 CPU : 26.4%, RAM : 72.3%
+[2025-02-12 04:19:55] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:58] 📊 CPU : 14.9%, RAM : 72.3%
+[2025-02-12 04:19:58] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:19:59] 📊 CPU : 17.8%, RAM : 72.0%
+[2025-02-12 04:19:59] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:02] 📊 CPU : 13.2%, RAM : 72.0%
+[2025-02-12 04:20:02] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:03] 📊 CPU : 16.9%, RAM : 71.9%
+[2025-02-12 04:20:03] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:06] 📊 CPU : 9.7%, RAM : 71.9%
+[2025-02-12 04:20:06] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:07] 📊 CPU : 13.5%, RAM : 71.9%
+[2025-02-12 04:20:07] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:10] 📊 CPU : 11.7%, RAM : 72.0%
+[2025-02-12 04:20:10] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:11] 📊 CPU : 10.1%, RAM : 71.9%
+[2025-02-12 04:20:11] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:14] 📊 CPU : 10.0%, RAM : 71.8%
+[2025-02-12 04:20:14] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:15] 📊 CPU : 10.1%, RAM : 71.8%
+[2025-02-12 04:20:15] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:18] 📊 CPU : 15.0%, RAM : 71.8%
+[2025-02-12 04:20:18] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:20] 📊 CPU : 11.7%, RAM : 71.8%
+[2025-02-12 04:20:20] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:22] 📊 CPU : 8.2%, RAM : 71.9%
+[2025-02-12 04:20:22] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:24] 📊 CPU : 13.2%, RAM : 71.9%
+[2025-02-12 04:20:24] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:26] 📊 CPU : 12.6%, RAM : 71.9%
+[2025-02-12 04:20:26] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:28] 📊 CPU : 10.8%, RAM : 71.8%
+[2025-02-12 04:20:28] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:30] 📊 CPU : 16.1%, RAM : 71.8%
+[2025-02-12 04:20:30] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:32] 📊 CPU : 10.3%, RAM : 72.0%
+[2025-02-12 04:20:32] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:34] 📊 CPU : 23.4%, RAM : 72.2%
+[2025-02-12 04:20:34] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:36] 📊 CPU : 9.0%, RAM : 72.3%
+[2025-02-12 04:20:36] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:38] 📊 CPU : 23.6%, RAM : 72.2%
+[2025-02-12 04:20:38] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:40] 📊 CPU : 13.5%, RAM : 72.0%
+[2025-02-12 04:20:40] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:42] 📊 CPU : 12.5%, RAM : 71.6%
+[2025-02-12 04:20:42] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:44] 📊 CPU : 8.7%, RAM : 71.6%
+[2025-02-12 04:20:44] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:46] 📊 CPU : 6.9%, RAM : 71.6%
+[2025-02-12 04:20:46] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:48] 📊 CPU : 14.7%, RAM : 71.8%
+[2025-02-12 04:20:48] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:50] 📊 CPU : 14.8%, RAM : 71.7%
+[2025-02-12 04:20:50] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:52] 📊 CPU : 11.1%, RAM : 71.7%
+[2025-02-12 04:20:52] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:54] 📊 CPU : 11.0%, RAM : 71.8%
+[2025-02-12 04:20:54] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:56] 📊 CPU : 9.9%, RAM : 71.8%
+[2025-02-12 04:20:56] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:20:58] 📊 CPU : 8.7%, RAM : 71.6%
+[2025-02-12 04:20:58] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:00] 📊 CPU : 17.2%, RAM : 71.6%
+[2025-02-12 04:21:00] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:02] 📊 CPU : 18.1%, RAM : 71.9%
+[2025-02-12 04:21:02] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:04] 📊 CPU : 17.2%, RAM : 73.1%
+[2025-02-12 04:21:04] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:06] 📊 CPU : 14.4%, RAM : 73.1%
+[2025-02-12 04:21:06] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:08] 📊 CPU : 18.7%, RAM : 73.2%
+[2025-02-12 04:21:08] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:10] 📊 CPU : 15.3%, RAM : 73.2%
+[2025-02-12 04:21:10] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:12] 📊 CPU : 11.3%, RAM : 73.2%
+[2025-02-12 04:21:12] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:14] 📊 CPU : 10.3%, RAM : 72.4%
+[2025-02-12 04:21:14] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:16] 📊 CPU : 11.1%, RAM : 72.4%
+[2025-02-12 04:21:16] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:18] 📊 CPU : 19.0%, RAM : 72.1%
+[2025-02-12 04:21:18] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:20] 📊 CPU : 16.7%, RAM : 72.3%
+[2025-02-12 04:21:20] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:22] 📊 CPU : 17.0%, RAM : 72.3%
+[2025-02-12 04:21:22] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:24] 📊 CPU : 13.3%, RAM : 72.3%
+[2025-02-12 04:21:24] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:26] 📊 CPU : 14.1%, RAM : 72.2%
+[2025-02-12 04:21:26] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:28] 📊 CPU : 28.5%, RAM : 72.8%
+[2025-02-12 04:21:28] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:30] 📊 CPU : 14.1%, RAM : 72.9%
+[2025-02-12 04:21:30] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:32] 📊 CPU : 16.4%, RAM : 72.9%
+[2025-02-12 04:21:32] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:34] 📊 CPU : 33.2%, RAM : 73.5%
+[2025-02-12 04:21:34] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:36] 📊 CPU : 7.3%, RAM : 73.2%
+[2025-02-12 04:21:36] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:38] 📊 CPU : 8.7%, RAM : 73.2%
+[2025-02-12 04:21:38] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:40] 📊 CPU : 8.8%, RAM : 73.2%
+[2025-02-12 04:21:40] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:42] 📊 CPU : 12.1%, RAM : 73.0%
+[2025-02-12 04:21:42] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:44] 📊 CPU : 8.8%, RAM : 73.0%
+[2025-02-12 04:21:44] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:46] 📊 CPU : 11.8%, RAM : 72.9%
+[2025-02-12 04:21:46] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:48] 📊 CPU : 7.8%, RAM : 72.9%
+[2025-02-12 04:21:48] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:50] 📊 CPU : 7.6%, RAM : 73.0%
+[2025-02-12 04:21:50] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:52] 📊 CPU : 7.8%, RAM : 73.0%
+[2025-02-12 04:21:52] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:54] 📊 CPU : 8.1%, RAM : 73.0%
+[2025-02-12 04:21:54] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:56] 📊 CPU : 4.1%, RAM : 73.0%
+[2025-02-12 04:21:56] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:21:58] 📊 CPU : 12.6%, RAM : 72.9%
+[2025-02-12 04:21:58] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:00] 📊 CPU : 9.4%, RAM : 72.9%
+[2025-02-12 04:22:00] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:02] 📊 CPU : 10.0%, RAM : 73.0%
+[2025-02-12 04:22:02] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:04] 📊 CPU : 10.6%, RAM : 73.0%
+[2025-02-12 04:22:04] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:06] 📊 CPU : 6.6%, RAM : 73.0%
+[2025-02-12 04:22:06] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:08] 📊 CPU : 11.2%, RAM : 73.1%
+[2025-02-12 04:22:08] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:10] 📊 CPU : 14.5%, RAM : 73.2%
+[2025-02-12 04:22:10] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:12] 📊 CPU : 15.1%, RAM : 73.2%
+[2025-02-12 04:22:12] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:14] 📊 CPU : 10.8%, RAM : 73.3%
+[2025-02-12 04:22:14] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:16] 📊 CPU : 17.9%, RAM : 73.8%
+[2025-02-12 04:22:16] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:18] 📊 CPU : 13.3%, RAM : 74.0%
+[2025-02-12 04:22:18] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:20] 📊 CPU : 44.0%, RAM : 75.2%
+[2025-02-12 04:22:20] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:22] 📊 CPU : 10.7%, RAM : 75.3%
+[2025-02-12 04:22:22] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:24] 📊 CPU : 16.3%, RAM : 75.1%
+[2025-02-12 04:22:24] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:26] 📊 CPU : 11.0%, RAM : 74.8%
+[2025-02-12 04:22:26] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:28] 📊 CPU : 11.2%, RAM : 74.8%
+[2025-02-12 04:22:28] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:31] 📊 CPU : 11.2%, RAM : 74.2%
+[2025-02-12 04:22:31] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:33] 📊 CPU : 22.1%, RAM : 74.4%
+[2025-02-12 04:22:33] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:35] 📊 CPU : 34.9%, RAM : 74.9%
+[2025-02-12 04:22:35] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:37] 📊 CPU : 15.4%, RAM : 74.8%
+[2025-02-12 04:22:37] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:39] 📊 CPU : 17.2%, RAM : 74.6%
+[2025-02-12 04:22:39] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:41] 📊 CPU : 16.9%, RAM : 74.6%
+[2025-02-12 04:22:41] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:43] 📊 CPU : 13.5%, RAM : 74.6%
+[2025-02-12 04:22:43] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:45] 📊 CPU : 15.3%, RAM : 73.9%
+[2025-02-12 04:22:45] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:47] 📊 CPU : 14.8%, RAM : 74.0%
+[2025-02-12 04:22:47] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:49] 📊 CPU : 13.4%, RAM : 74.1%
+[2025-02-12 04:22:49] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:51] 📊 CPU : 9.7%, RAM : 74.3%
+[2025-02-12 04:22:51] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:53] 📊 CPU : 9.8%, RAM : 74.4%
+[2025-02-12 04:22:53] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:55] 📊 CPU : 24.0%, RAM : 73.2%
+[2025-02-12 04:22:55] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:57] 📊 CPU : 16.2%, RAM : 73.0%
+[2025-02-12 04:22:57] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:22:59] 📊 CPU : 11.9%, RAM : 73.1%
+[2025-02-12 04:22:59] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:23:01] 📊 CPU : 29.1%, RAM : 73.2%
+[2025-02-12 04:23:01] ✅ Charge normale, intervalle à 3s.
+[2025-02-12 04:23:03] 📊 CPU : 14.9%, RAM : 72.9%
+[2025-02-12 04:23:03] ✅ Charge normale, intervalle à 3s.
